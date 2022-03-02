@@ -1,0 +1,3 @@
+[submodule "EldenRingMessage"]
+	path = EldenRingMessage
+	url = https://github.com/Brettehwarrior/EldenRingMessage.git
